@@ -5,7 +5,7 @@
 #PBS -k oe
 
 #PBS -m ae
-#PBS -M reubennowell@gmail.com
+#PBS -M foo.bar@email.com
 
 #PBS -l walltime=5:00:00
 #PBS -l select=1:ncpus=8:mem=100gb
